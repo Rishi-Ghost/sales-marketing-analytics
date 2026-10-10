@@ -1,0 +1,46 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,target_segment
+1,Email_Camp_01,Email,2023-11-04,2024-01-30,41452.83,SMB
+2,Affiliate_Camp_02,Affiliate,2023-09-23,2023-11-16,46990.73,All
+3,SocialMedia_Camp_03,Social Media,2023-03-20,2023-06-10,55161.89,Enterprise
+4,Direct_Camp_04,Direct,2025-03-27,2025-05-03,50765.61,SMB
+5,Direct_Camp_05,Direct,2025-01-25,2025-02-14,23007.52,Enterprise
+6,Email_Camp_06,Email,2025-01-08,2025-03-12,58759.71,Consumer
+7,OrganicSearch_Camp_07,Organic Search,2025-07-24,2025-10-18,4389.46,Enterprise
+8,Affiliate_Camp_08,Affiliate,2023-12-10,2024-01-28,15720.76,Consumer
+9,SocialMedia_Camp_09,Social Media,2025-02-06,2025-03-26,16239.37,All
+10,Email_Camp_10,Email,2025-08-01,2025-10-29,17296.37,Consumer
+11,PaidSearch_Camp_11,Paid Search,2026-06-06,2026-07-27,51787.49,SMB
+12,DisplayAds_Camp_12,Display Ads,2025-12-26,2026-03-23,23001.69,All
+13,Affiliate_Camp_13,Affiliate,2024-03-31,2024-05-08,76917.03,Enterprise
+14,PaidSearch_Camp_14,Paid Search,2024-11-27,2025-01-31,22336.82,Consumer
+15,DisplayAds_Camp_15,Display Ads,2024-01-18,2024-04-09,28355.26,All
+16,Email_Camp_16,Email,2023-12-31,2024-02-26,15078.99,SMB
+17,PaidSearch_Camp_17,Paid Search,2025-04-06,2025-07-04,69730.08,SMB
+18,Affiliate_Camp_18,Affiliate,2024-12-04,2025-02-23,62971.24,Consumer
+19,DisplayAds_Camp_19,Display Ads,2023-07-29,2023-09-09,79331.48,Enterprise
+20,SocialMedia_Camp_20,Social Media,2026-02-20,2026-04-25,30532.73,All
+21,Email_Camp_21,Email,2025-11-28,2026-01-14,76067.01,Consumer
+22,DisplayAds_Camp_22,Display Ads,2023-02-02,2023-03-29,40045.93,Consumer
+23,OrganicSearch_Camp_23,Organic Search,2024-06-19,2024-07-31,17144.44,Enterprise
+24,OrganicSearch_Camp_24,Organic Search,2025-11-15,2026-02-10,74252.85,Enterprise
+25,Email_Camp_25,Email,2025-09-12,2025-12-11,14855.56,SMB
+26,Affiliate_Camp_26,Affiliate,2025-12-04,2026-01-29,20409.4,Enterprise
+27,PaidSearch_Camp_27,Paid Search,2023-06-26,2023-08-25,32773.4,Enterprise
+28,Email_Camp_28,Email,2024-10-28,2024-12-18,10386.77,Consumer
+29,PaidSearch_Camp_29,Paid Search,2024-02-19,2024-03-17,58856.73,Consumer
+30,DisplayAds_Camp_30,Display Ads,2026-06-22,2026-08-02,34719.73,Enterprise
+31,Email_Camp_31,Email,2024-05-02,2024-07-09,68421.63,Enterprise
+32,DisplayAds_Camp_32,Display Ads,2023-02-02,2023-03-22,13675.55,Enterprise
+33,OrganicSearch_Camp_33,Organic Search,2024-08-03,2024-08-28,62554.03,SMB
+34,Affiliate_Camp_34,Affiliate,2025-07-24,2025-09-25,43278.55,Enterprise
+35,Email_Camp_35,Email,2026-04-26,2026-07-16,45795.88,SMB
+36,SocialMedia_Camp_36,Social Media,2025-09-05,2025-09-19,30156.95,SMB
+37,Affiliate_Camp_37,Affiliate,2025-11-19,2026-02-08,68803.36,Consumer
+38,PaidSearch_Camp_38,Paid Search,2025-04-03,2025-05-07,74943.57,All
+39,SocialMedia_Camp_39,Social Media,2025-05-02,2025-05-23,69394.68,All
+40,Email_Camp_40,Email,2025-07-10,2025-09-30,23803.97,SMB
+41,Direct_Camp_41,Direct,2023-10-11,2023-12-27,28355.46,Consumer
+42,Direct_Camp_42,Direct,2024-07-26,2024-10-17,28483.82,All
+43,DisplayAds_Camp_43,Display Ads,2025-01-14,2025-03-09,57588.74,Consumer
+44,PaidSearch_Camp_44,Paid Search,2023-12-31,2024-03-18,25754.25,Enterprise
+45,SocialMedia_Camp_45,Social Media,2023-06-19,2023-08-26,3980.87,Enterprise
